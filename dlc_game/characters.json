@@ -1,0 +1,146 @@
+{
+    "Mario": {
+        "Enable": true
+    },
+    "Luigi": {
+        "Enable": true
+    },
+    "Peach": {
+        "Enable": true
+    },
+    "Daisy": {
+        "Enable": true
+    },
+    "Rosalina": {
+        "Enable": true
+    },
+    "Tanooki Mario": {
+        "Enable": true
+    },
+    "Cat Peach": {
+        "Enable": true
+    },
+    "Birdo": {
+        "Enable": true
+    },
+    "Yoshi": {
+        "Enable": true
+    },
+    "Toad": {
+        "Enable": true
+    },
+    "Koopa Troopa": {
+        "Enable": true
+    },
+    "Shy Guy": {
+        "Enable": true
+    },
+    "Lakitu": {
+        "Enable": true
+    },
+    "Toadette": {
+        "Enable": true
+    },
+    "King Boo": {
+        "Enable": true
+    },
+    "Petey Piranha": {
+        "Enable": true
+    },
+    "Baby Mario": {
+        "Enable": true
+    },
+    "Baby Luigi": {
+        "Enable": true
+    },
+    "Baby Peach": {
+        "Enable": true
+    },
+    "Baby Daisy": {
+        "Enable": true
+    },
+    "Baby Rosalina": {
+        "Enable": true
+    },
+    "Metal Mario": {
+        "Enable": true
+    },
+    "Pink Gold Peach": {
+        "Enable": true
+    },
+    "Wiggler": {
+        "Enable": true
+    },
+    "Wario": {
+        "Enable": true
+    },
+    "Waluigi": {
+        "Enable": true
+    },
+    "Donkey Kong": {
+        "Enable": true
+    },
+    "Bowser": {
+        "Enable": true
+    },
+    "Dry Bones": {
+        "Enable": true
+    },
+    "Bowser Jr.": {
+        "Enable": true
+    },
+    "Dry Bowser": {
+        "Enable": true
+    },
+    "Kamek": {
+        "Enable": true
+    },
+    "Lemmy": {
+        "Enable": true
+    },
+    "Larry": {
+        "Enable": true
+    },
+    "Wendy": {
+        "Enable": true
+    },
+    "Ludwig": {
+        "Enable": true
+    },
+    "Iggy": {
+        "Enable": true
+    },
+    "Roy": {
+        "Enable": true
+    },
+    "Morton": {
+        "Enable": true
+    },
+    "Peachette": {
+        "Enable": true
+    },
+    "Inkling": {
+        "Enable": true
+    },
+    "Villager": {
+        "Enable": true
+    },
+    "Isabelle": {
+        "Enable": true
+    },
+    "Link": {
+        "Enable": true
+    },
+    "Diddy Kong": {
+        "Enable": true
+    },
+    "Funky Kong": {
+        "Enable": true
+    },
+    "Pauline": {
+        "Enable": true
+    },
+    "Mii": {
+        "Enable": true
+    }
+}

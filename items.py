@@ -33,7 +33,7 @@ if __name__ == '__main__':
     parser.add_argument("--items", default="./base_game/items.json",
                         type=str, help="Path of the items json")
     parser.add_argument("--teams", action='store_true',
-                        help="If the script should randomize eaach item per team")
+                        help="If the script should randomize each item per team")
     args = parser.parse_args()
 
     with open(args.items, 'r') as items_json:

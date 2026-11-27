@@ -1,0 +1,68 @@
+{
+    "Banana": {
+        "Enable": true
+    },
+    "Triple Bananas": {
+        "Enable": true
+    },
+    "Green Shell": {
+        "Enable": true
+    },
+    "Triple Green Shells": {
+        "Enable": true
+    },
+    "Red Shell": {
+        "Enable": true
+    },
+    "Triple Red Shells": {
+        "Enable": true
+    },
+    "Spiny Shell": {
+        "Enable": true
+    },
+    "Bob-omb": {
+        "Enable": true
+    },
+    "Mushroom": {
+        "Enable": true
+    },
+    "Triple Mushrooms": {
+        "Enable": true
+    },
+    "Golden Mushroom": {
+        "Enable": true
+    },
+    "Bullet Bill": {
+        "Enable": true
+    },
+    "Blooper": {
+        "Enable": true
+    },
+    "Lightning": {
+        "Enable": true
+    },
+    "Star": {
+        "Enable": true
+    },
+    "Fire Flower": {
+        "Enable": true
+    },
+    "Boomerang Flower": {
+        "Enable": true
+    },
+    "Piranha Plant": {
+        "Enable": true
+    },
+    "Super Horn": {
+        "Enable": true
+    },
+    "Crazy 8": {
+        "Enable": true
+    },
+    "Coin": {
+        "Enable": true
+    },
+    "Boo": {
+        "Enable": true
+    }
+}

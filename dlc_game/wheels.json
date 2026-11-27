@@ -1,0 +1,68 @@
+{
+    "Standard": {
+        "Enable": true
+    },
+    "Monster": {
+        "Enable": true
+    },
+    "Roller": {
+        "Enable": true
+    },
+    "Slim": {
+        "Enable": true
+    },
+    "Slick": {
+        "Enable": true
+    },
+    "Metal": {
+        "Enable": true
+    },
+    "Button": {
+        "Enable": true
+    },
+    "Off-Road": {
+        "Enable": true
+    },
+    "Sponge": {
+        "Enable": true
+    },
+    "Wood": {
+        "Enable": true
+    },
+    "Cushion": {
+        "Enable": true
+    },
+    "Blue Standard": {
+        "Enable": true
+    },
+    "Hot Monster": {
+        "Enable": true
+    },
+    "Azure Roller": {
+        "Enable": true
+    },
+    "Crimson Slim": {
+        "Enable": true
+    },
+    "Cyber Slick": {
+        "Enable": true
+    },
+    "Retro Off-Road": {
+        "Enable": true
+    },
+    "Gold Tires": {
+        "Enable": true
+    },
+    "GLA Tires": {
+        "Enable": true
+    },
+    "Triforce Tires": {
+        "Enable": true
+    },
+    "Ancient Tyres": {
+        "Enable": true
+    },
+    "Leaf Tires": {
+        "Enable": true
+    }
+}

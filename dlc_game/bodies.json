@@ -1,0 +1,166 @@
+{
+    "Standard Kart": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Pipe Frame": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Mach 8": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Steel Driver": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Cat Cruiser": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Circuit Special": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Tri-Speeder": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Badwagon": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Prancer": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Biddybuggy": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Landship": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Sneeker": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Sports Coupe": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Gold Standard": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "GLA": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "W 25 Silver Arrow": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "300 SL Roadster": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Blue Falcon": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Tanooki Kart": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "B Dasher": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Streetle": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "P-Wing": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Koopa Clown": {
+        "Enable": true,
+        "Type": "Kart"
+    },
+    "Standard Bike": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Comet": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Sport Bike": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "The Duke": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Flame Rider": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Varmint": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Mr. Scooty": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Jet Bike": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Yoshi Bike": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Master Cycle": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Master Cycle Zero": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "City Tripper": {
+        "Enable": true,
+        "Type": "Bike"
+    },
+    "Standard ATV": {
+        "Enable": true,
+        "Type": "ATV"
+    },
+    "Wild Wiggler": {
+        "Enable": true,
+        "Type": "ATV"
+    },
+    "Teddy Buggy": {
+        "Enable": true,
+        "Type": "ATV"
+    },
+    "Bone Rattler": {
+        "Enable": true,
+        "Type": "ATV"
+    },
+    "Splat Buggy": {
+        "Enable": true,
+        "Type": "ATV"
+    },
+    "Inkstriker": {
+        "Enable": true,
+        "Type": "ATV"
+    }
+}

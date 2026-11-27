@@ -1,0 +1,386 @@
+{
+    "Mario Kart Stadium": {
+        "Enable": true,
+        "Cup": "Mushroom"
+    },
+    "Water Park": {
+        "Enable": true,
+        "Cup": "Mushroom"
+    },
+    "Sweet Sweet Canyon": {
+        "Enable": true,
+        "Cup": "Mushroom"
+    },
+    "Thwomp Ruins": {
+        "Enable": true,
+        "Cup": "Mushroom"
+    },
+    "Mario Circuit (Wii U)": {
+        "Enable": true,
+        "Cup": "Flower"
+    },
+    "Toad Harbor": {
+        "Enable": true,
+        "Cup": "Flower"
+    },
+    "Twisted Mansion": {
+        "Enable": true,
+        "Cup": "Flower"
+    },
+    "Shy Guy Falls": {
+        "Enable": true,
+        "Cup": "Flower"
+    },
+    "Sunshine Airport": {
+        "Enable": true,
+        "Cup": "Star"
+    },
+    "Dolphin Shoals": {
+        "Enable": true,
+        "Cup": "Star"
+    },
+    "Electrodrome": {
+        "Enable": true,
+        "Cup": "Star"
+    },
+    "Mount Wario": {
+        "Enable": true,
+        "Cup": "Star"
+    },
+    "Cloudtop Cruise": {
+        "Enable": true,
+        "Cup": "Special"
+    },
+    "Bone-Dry Dunes": {
+        "Enable": true,
+        "Cup": "Special"
+    },
+    "Bowser's Castle": {
+        "Enable": true,
+        "Cup": "Special"
+    },
+    "Rainbow Road": {
+        "Enable": true,
+        "Cup": "Special"
+    },
+    "Yoshi Circuit (GCN)": {
+        "Enable": true,
+        "Cup": "Egg"
+    },
+    "Excitebike Arena": {
+        "Enable": true,
+        "Cup": "Egg"
+    },
+    "Dragon Driftway": {
+        "Enable": true,
+        "Cup": "Egg"
+    },
+    "Mute City": {
+        "Enable": true,
+        "Cup": "Egg"
+    },
+    "Baby Park (GCN)": {
+        "Enable": true,
+        "Cup": "Crossing"
+    },
+    "Cheese Land (GBA)": {
+        "Enable": true,
+        "Cup": "Crossing"
+    },
+    "Wild Woods": {
+        "Enable": true,
+        "Cup": "Crossing"
+    },
+    "Animal Crossing": {
+        "Enable": true,
+        "Cup": "Crossing"
+    },
+    "Moo Moo Meadows (Wii)": {
+        "Enable": true,
+        "Cup": "Shell"
+    },
+    "Mario Circuit (GBA)": {
+        "Enable": true,
+        "Cup": "Shell"
+    },
+    "Cheep Cheep Beach (DS)": {
+        "Enable": true,
+        "Cup": "Shell"
+    },
+    "Toad's Turnpike (N64)": {
+        "Enable": true,
+        "Cup": "Shell"
+    },
+    "Dry Dry Desert (GCN)": {
+        "Enable": true,
+        "Cup": "Banana"
+    },
+    "Donut Plains 3 (SNES)": {
+        "Enable": true,
+        "Cup": "Banana"
+    },
+    "Royal Raceway (N64)": {
+        "Enable": true,
+        "Cup": "Banana"
+    },
+    "DK Jungle (3DS)": {
+        "Enable": true,
+        "Cup": "Banana"
+    },
+    "Wario Stadium (DS)": {
+        "Enable": true,
+        "Cup": "Leaf"
+    },
+    "Sherbet Land (GCN)": {
+        "Enable": true,
+        "Cup": "Leaf"
+    },
+    "Music Park (3DS)": {
+        "Enable": true,
+        "Cup": "Leaf"
+    },
+    "Yoshi Valley (N64)": {
+        "Enable": true,
+        "Cup": "Leaf"
+    },
+    "Tick-Tock Clock (DS)": {
+        "Enable": true,
+        "Cup": "Lightning"
+    },
+    "Piranha Plant Slide (3DS)": {
+        "Enable": true,
+        "Cup": "Lightning"
+    },
+    "Grumble Volcano (Wii)": {
+        "Enable": true,
+        "Cup": "Lightning"
+    },
+    "Rainbow Road (N64)": {
+        "Enable": true,
+        "Cup": "Lightning"
+    },
+    "Wario's Gold Mine (Wii)": {
+        "Enable": true,
+        "Cup": "Triforce"
+    },
+    "Rainbow Road (SNES)": {
+        "Enable": true,
+        "Cup": "Triforce"
+    },
+    "Ice Ice Outpost": {
+        "Enable": true,
+        "Cup": "Triforce"
+    },
+    "Hyrule Circuit": {
+        "Enable": true,
+        "Cup": "Triforce"
+    },
+    "Neo Bowser City (3DS)": {
+        "Enable": true,
+        "Cup": "Bell"
+    },
+    "Ribbon Road (GBA)": {
+        "Enable": true,
+        "Cup": "Bell"
+    },
+    "Super Bell Subway": {
+        "Enable": true,
+        "Cup": "Bell"
+    },
+    "Big Blue": {
+        "Enable": true,
+        "Cup": "Bell"
+    },
+    "Paris Promenade": {
+        "Enable": true,
+        "Cup": "Golden Dash"
+    },
+    "Toad Circuit": {
+        "Enable": true,
+        "Cup": "Golden Dash"
+    },
+    "Choco Mountain": {
+        "Enable": true,
+        "Cup": "Golden Dash"
+    },
+    "Coconut Mall": {
+        "Enable": true,
+        "Cup": "Golden Dash"
+    },
+    "Tokyo Blur": {
+        "Enable": true,
+        "Cup": "Lucky Cat"
+    },
+    "Shroom Ridge": {
+        "Enable": true,
+        "Cup": "Lucky Cat"
+    },
+    "Sky Garden": {
+        "Enable": true,
+        "Cup": "Lucky Cat"
+    },
+    "Ninja Hideaway": {
+        "Enable": true,
+        "Cup": "Lucky Cat"
+    },
+    "New York Minute": {
+        "Enable": true,
+        "Cup": "Turnip"
+    },
+    "Mario Circuit 3": {
+        "Enable": true,
+        "Cup": "Turnip"
+    },
+    "Kalimari Desert": {
+        "Enable": true,
+        "Cup": "Turnip"
+    },
+    "Waluigi Pinball": {
+        "Enable": true,
+        "Cup": "Turnip"
+    },
+    "Sydney Sprint": {
+        "Enable": true,
+        "Cup": "Propeller"
+    },
+    "Snow Land": {
+        "Enable": true,
+        "Cup": "Propeller"
+    },
+    "Mushroom Gorge": {
+        "Enable": true,
+        "Cup": "Propeller"
+    },
+    "Sky-High Sundae": {
+        "Enable": true,
+        "Cup": "Propeller"
+    },
+    "London Loop": {
+        "Enable": true,
+        "Cup": "Rock"
+    },
+    "Boo Lake": {
+        "Enable": true,
+        "Cup": "Rock"
+    },
+    "Rock Rock Mountain": {
+        "Enable": true,
+        "Cup": "Rock"
+    },
+    "Maple Treeway": {
+        "Enable": true,
+        "Cup": "Rock"
+    },
+    "Berlin Byways": {
+        "Enable": true,
+        "Cup": "Moon"
+    },
+    "Peach Gardens": {
+        "Enable": true,
+        "Cup": "Moon"
+    },
+    "Merry Mountain": {
+        "Enable": true,
+        "Cup": "Moon"
+    },
+    "Rainbow Road (3DS)": {
+        "Enable": true,
+        "Cup": "Moon"
+    },
+    "Amsterdam Drift": {
+        "Enable": true,
+        "Cup": "Fruit"
+    },
+    "Riverside Park": {
+        "Enable": true,
+        "Cup": "Fruit"
+    },
+    "DK Summit": {
+        "Enable": true,
+        "Cup": "Fruit"
+    },
+    "Yoshi's Island": {
+        "Enable": true,
+        "Cup": "Fruit"
+    },
+    "Bangkok Rush": {
+        "Enable": true,
+        "Cup": "Boomerang"
+    },
+    "Mario Circuit": {
+        "Enable": true,
+        "Cup": "Boomerang"
+    },
+    "Waluigi Stadium": {
+        "Enable": true,
+        "Cup": "Boomerang"
+    },
+    "Singapore Speedway": {
+        "Enable": true,
+        "Cup": "Boomerang"
+    },
+    "Athens Dash": {
+        "Enable": true,
+        "Cup": "Feather"
+    },
+    "Daisy Cruiser": {
+        "Enable": true,
+        "Cup": "Feather"
+    },
+    "Moonview Highway": {
+        "Enable": true,
+        "Cup": "Feather"
+    },
+    "Squeaky Clean Sprint": {
+        "Enable": true,
+        "Cup": "Feather"
+    },
+    "Los Angeles Laps": {
+        "Enable": true,
+        "Cup": "Cherry"
+    },
+    "Sunset Wilds": {
+        "Enable": true,
+        "Cup": "Cherry"
+    },
+    "Koopa Cape": {
+        "Enable": true,
+        "Cup": "Cherry"
+    },
+    "Vancouver Velocity": {
+        "Enable": true,
+        "Cup": "Cherry"
+    },
+    "Rome Avanti": {
+        "Enable": true,
+        "Cup": "Acorn"
+    },
+    "DK Mountain": {
+        "Enable": true,
+        "Cup": "Acorn"
+    },
+    "Daisy Circuit": {
+        "Enable": true,
+        "Cup": "Acorn"
+    },
+    "Piranha Plant Cove": {
+        "Enable": true,
+        "Cup": "Acorn"
+    },
+    "Madrid Drive": {
+        "Enable": true,
+        "Cup": "Spiny"
+    },
+    "Rosalina's Ice World": {
+        "Enable": true,
+        "Cup": "Spiny"
+    },
+    "Bowser Castle 3": {
+        "Enable": true,
+        "Cup": "Spiny"
+    },
+    "Rainbow Road (Wii)": {
+        "Enable": true,
+        "Cup": "Spiny"
+    }
+}
